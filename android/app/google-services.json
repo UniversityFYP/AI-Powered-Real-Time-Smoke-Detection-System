@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1036297923866",
+    "project_id": "fyp-database-7d304",
+    "storage_bucket": "fyp-database-7d304.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1036297923866:android:a7218a195fb4eccabbd0a3",
+        "android_client_info": {
+          "package_name": "com.smokevision.smokevision_fyp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVv_IoeQ3gUy6DFzQ8gYp4a4yJN3y-n_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
