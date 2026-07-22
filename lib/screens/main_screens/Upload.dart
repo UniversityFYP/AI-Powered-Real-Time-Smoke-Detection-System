@@ -50,9 +50,9 @@ class _UploadPageState extends State<UploadPage> {
   int? Total_Frames;
 //cloudinary for image storage
   final cloudinary = Cloudinary.signedConfig(
-    apiKey: '925557794339816',
-    apiSecret: 'kKC-cMpW1pQbwj1pciptmEGAol0',
-    cloudName: 'dopwmj4xc',
+    apiKey: '',
+    apiSecret: '',
+    cloudName: '',
   );
 //Firebase Firstore for database
   late FirebaseFirestore firestore;
